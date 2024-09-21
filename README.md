@@ -1,5 +1,4 @@
 # Codeforces Problemsets
-
 Problems solved 
 
 - [112A](https://codeforces.com/problemset/problem/112/A) 
@@ -19,3 +18,4 @@ Problems solved
 - [791A](https://codeforces.com/problemset/problem/791/A)
 - [96A](https://codeforces.com/problemset/problem/96/A)
 - [160A](https://codeforces.com/problemset/problem/160/A)
+- [318A](https://codeforces.com/problemset/problem/318/A)
