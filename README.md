@@ -17,4 +17,4 @@ Problems solved
 - [617A](https://codeforces.com/problemset/problem/617/A)
 - [71A](https://codeforces.com/problemset/problem/71/A)
 - [791A](https://codeforces.com/problemset/problem/791/A)
-
+- [96A](https://codeforces.com/problemset/problem/96/A)
