@@ -19,3 +19,5 @@ Problems solved
 - [96A](https://codeforces.com/problemset/problem/96/A)
 - [160A](https://codeforces.com/problemset/problem/160/A)
 - [318A](https://codeforces.com/problemset/problem/318/A)
+- [133A](https://codeforces.com/problemset/problem/133/A)
+- [405A](https://codeforces.com/problemset/problem/405/A)
