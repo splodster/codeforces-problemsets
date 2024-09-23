@@ -25,3 +25,4 @@ Problems solved
 - [59A](https://codeforces.com/problemset/problem/59/A)
 - [118A](https://codeforces.com/problemset/problem/118/A)
 - [69A](https://codeforces.com/problemset/problem/69/A)
+- [208A](https://codeforces.com/problemset/problem/208/A)
