@@ -22,3 +22,6 @@ Problems solved
 - [133A](https://codeforces.com/problemset/problem/133/A)
 - [405A](https://codeforces.com/problemset/problem/405/A)
 - [1A](https://codeforces.com/problemset/problem/1/A)
+- [59A](https://codeforces.com/problemset/problem/59/A)
+- [118A](https://codeforces.com/problemset/problem/118/A)
+- [69A](https://codeforces.com/problemset/problem/69/A)
