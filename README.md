@@ -1,28 +1,17 @@
 # Codeforces Problemsets
-Problems solved 
 
-- [112A](https://codeforces.com/problemset/problem/112/A) 
-- [231A](https://codeforces.com/problemset/problem/231/A) 
-- [158A](https://codeforces.com/problemset/problem/158/A)
-- [236A](https://codeforces.com/problemset/problem/236/A)
-- [263A](https://codeforces.com/problemset/problem/263/A)
-- [266A](https://codeforces.com/problemset/problem/266/A)
-- [281A](https://codeforces.com/problemset/problem/281/A)
-- [282A](https://codeforces.com/problemset/problem/282/A)
-- [339A](https://codeforces.com/problemset/problem/339/A)
-- [4A](https://codeforces.com/problemset/problem/4/A)
-- [50A](https://codeforces.com/problemset/problem/50/A)
-- [546A](https://codeforces.com/problemset/problem/546/A)
-- [617A](https://codeforces.com/problemset/problem/617/A)
-- [71A](https://codeforces.com/problemset/problem/71/A)
-- [791A](https://codeforces.com/problemset/problem/791/A)
-- [96A](https://codeforces.com/problemset/problem/96/A)
-- [160A](https://codeforces.com/problemset/problem/160/A)
-- [318A](https://codeforces.com/problemset/problem/318/A)
-- [133A](https://codeforces.com/problemset/problem/133/A)
-- [405A](https://codeforces.com/problemset/problem/405/A)
-- [1A](https://codeforces.com/problemset/problem/1/A)
-- [59A](https://codeforces.com/problemset/problem/59/A)
-- [118A](https://codeforces.com/problemset/problem/118/A)
-- [69A](https://codeforces.com/problemset/problem/69/A)
-- [208A](https://codeforces.com/problemset/problem/208/A)
+To view stats, run the command below:
+
+```sh
+./stats.sh
+```
+
+output as of last commit:
+
+```sh
+1100 difficulty problems solved: 2
+1000 difficulty problems solved: 11
+900 difficulty problems solved: 6
+800 difficulty problems solved: 16
+Average difficulty : 897.14
+```
